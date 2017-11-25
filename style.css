@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #8181ED;
+    color: #FFF;
+    text-align: center;
+}
+
+.box {
+    margin-bottom: 90px;
+}
+
+.trigger, .social {
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    background: #8181ED;
+    border: 1px solid #FFF;
+}
+
+.trigger {
+    color: #FFF;
+    display: block;
+    margin-bottom: 40px;
+}
+
+.social {
+    padding: 15px;
+}
+
+.tweet {
+    text-decoration: none;
+    color: #FFF;
+    position: relative;
+}
+
